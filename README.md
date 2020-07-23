@@ -1,8 +1,8 @@
 ### Tyler James Burch
 
-I'm a postdoctoral researcher at Argonne National Laboratory, working on physics applications for the upcoming Aurora Supercomputer. In my Ph.D. I worked on the ATLAS experiment at the LHC at CERN, studying the Higgs Boson.
+I'm a postdoctoral researcher at Argonne National Laboratory, working on physics applications for the upcoming Aurora Supercomputer. In my Ph.D. I worked on the ATLAS experiment at the LHC at CERN, studying Higgs Boson pair production and using machine learning for photon identification.
 
-My programmingsinterests are primarily in data analysis, machine learning, and statistics. My personal hobbies include sports analytics, specifically baseball, as well as music, baking, and running.
+My programming interests are primarily in data analysis, machine learning, and statistics. My personal hobbies include sports analytics, specifically baseball, as well as music, baking, and running.
 
 Feel free to reach out, and be sure to read some of my work on my blog.
 
