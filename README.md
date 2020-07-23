@@ -4,7 +4,7 @@ I'm a postdoctoral researcher at Argonne National Laboratory, working on physics
 
 My programming interests are primarily in data analysis, machine learning, and statistics. My personal hobbies include sports analytics, specifically baseball, as well as music, baking, and running.
 
-Feel free to reach out, and be sure to read some of my work on my blog.
+Feel free to reach out, and be sure to read some of my work on my blog. 
 
 ### Connect 
 
@@ -22,6 +22,8 @@ Feel free to reach out, and be sure to read some of my work on my blog.
 ### Currently Learning
 
 - Developing my Bayesian statistics knowledge, as well as learning some R by working through [Statistical Rethinking -  McElreath](https://github.com/tjburch/statistical-rethinking-notes)
+
+> This GitHub is where I keep my personal projects, prior professional work from my PhD lies in [this GitLab](https://gitlab.com/tjburch), and present professional work lies in institutionally protected GitLabs.
 
 <!--
 **tjburch/tjburch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
