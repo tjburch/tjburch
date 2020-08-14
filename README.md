@@ -25,6 +25,7 @@ Feel free to reach out, and be sure to read some of my work on my blog.
 
 ### More Information
 
+- [Professional Resume](http://tylerjamesburch.com/documents/resume.pdf)
 - [Curriculum Vitae](http://tylerjamesburch.com/documents/cv.pdf)
 
 > This GitHub is where I keep my personal projects, prior professional work from my PhD lies in [this GitLab](https://gitlab.com/tjburch), and present professional work lies in institutionally protected GitLabs.
