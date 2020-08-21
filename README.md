@@ -21,7 +21,8 @@ Feel free to reach out, and be sure to read some of my work on my blog.
 
 ### Currently Learning
 
-- Developing my Bayesian statistics knowledge, as well as learning some R by working through [Statistical Rethinking -  McElreath](https://github.com/tjburch/statistical-rethinking-notes)
+- Developing my Bayesian statistics and probabilistic programming knowledge (and learning some R along the way!) by working through [Statistical Rethinking -  McElreath](https://github.com/tjburch/statistical-rethinking-notes)
+- Familiarizing myself with the [Julia](https://julialang.org/) language and libraries
 
 ### More Information
 
