@@ -17,7 +17,7 @@ Feel free to reach out, and be sure to read some of my work on my blog.
 
 - [Developing a Model to Classify MLB Hits](http://tylerjamesburch.com/blog/baseball/hit-classifier-1)
 
-- [538 Riddler: Can you find the fish in state names?](http://tylerjamesburch.com/blog/misc/fivethirtyeight_mackerel)
+- [538 Riddler: Astrophysical Signals](http://tylerjamesburch.com/blog/misc/fivethirtyeight-astrophysics)
 
 ### Currently Learning
 
