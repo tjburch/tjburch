@@ -15,7 +15,7 @@ Feel free to reach out, and be sure to read some of my work on my blog.
 
 ### Recent Posts
 
-- [538 Riddler: Gold Percentages](http://tylerjamesburch.com/blog/misc/fivethirtyeight_golf_percentages)
+- [538 Riddler: Golf Percentages](http://tylerjamesburch.com/blog/misc/fivethirtyeight_golf_percentages)
 
 ### Currently Learning
 
