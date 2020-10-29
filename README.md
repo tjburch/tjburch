@@ -4,7 +4,23 @@ I'm a postdoctoral researcher at Argonne National Laboratory, working on physics
 
 My programming interests are primarily in data analysis, machine learning, and statistics. My personal hobbies include sports analytics, specifically baseball, as well as music, baking, and running.
 
-Feel free to reach out, and be sure to read some of my work on my blog. 
+Feel free to reach out, and be sure to read some of my work on my blog.
+
+
+### Highlighted Work
+
+- [Using Bayesian Inference to Study Home-Field Advantage in 2020](http://tylerjamesburch.com/blog/baseball/homefield-2020)
+
+- [Developing a Model to Classify MLB Hits](http://tylerjamesburch.com/blog/baseball/hit-classifier-1)
+
+### Recent Posts
+
+- [538 Riddler: Gold Percentages](http://tylerjamesburch.com/blog/misc/fivethirtyeight_golf_percentages)
+
+### Currently Learning
+
+- Continuing developing my Bayesian statistics and probabilistic programming knowledge after finishing [Statistical Rethinking -  McElreath](https://github.com/tjburch/statistical-rethinking-notes), by diving into PyMC3 and ArviZ with the help of [Bayesian Analysis in Python - Martin](https://www.packtpub.com/product/bayesian-analysis-with-python-second-edition/9781789341652)
+- Familiarizing myself with the [Julia](https://julialang.org/) language and libraries
 
 ### Connect 
 
@@ -12,17 +28,6 @@ Feel free to reach out, and be sure to read some of my work on my blog.
 
 - Twitter - [@tylerjburch](https://twitter.com/TylerJBurch)
 
-
-### My Latest Work and Posts
-
-- [Developing a Model to Classify MLB Hits](http://tylerjamesburch.com/blog/baseball/hit-classifier-1)
-
-- [538 Riddler: Can you find the fish in state names?](http://tylerjamesburch.com/blog/misc/fivethirtyeight_mackerel)
-
-### Currently Learning
-
-- Developing my Bayesian statistics and probabilistic programming knowledge (and learning some R along the way!) by working through [Statistical Rethinking -  McElreath](https://github.com/tjburch/statistical-rethinking-notes)
-- Familiarizing myself with the [Julia](https://julialang.org/) language and libraries
 
 ### More Information
 
