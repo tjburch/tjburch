@@ -1,8 +1,13 @@
 ### Tyler James Burch
 
-I'm a postdoctoral researcher at Argonne National Laboratory, working on physics applications for the upcoming Aurora Supercomputer. In my Ph.D. I worked on the ATLAS experiment at the LHC at CERN, studying Higgs Boson pair production and using machine learning for photon identification.
+I'm an analyst working in Baseball Research and Development for the Boston Red Sox.
 
-My programming interests are primarily in data analysis, machine learning, and statistics. My personal hobbies include sports analytics, specifically baseball, as well as music, baking, and running.
+Previously:
+
+- Postdoc @ Argonne National Laboratory - particle physics simulation for the Aurora Supercomputer, uncertainty quantification for neural networks
+- PhD @ Northern Illinois University - research on the ATLAS experiment on the LHC at CERN. Higgs boson pair production, machine learning for photon identification
+
+My programming interests are primarily in data analysis, machine learning, and [Bayesian] statistics. My other personal hobbies include  music, baking, and running.
 
 Feel free to reach out, and be sure to read some of my work on my blog.
 
@@ -34,7 +39,7 @@ Feel free to reach out, and be sure to read some of my work on my blog.
 - [Professional Resume](http://tylerjamesburch.com/documents/resume.pdf)
 - [Curriculum Vitae](http://tylerjamesburch.com/documents/cv.pdf)
 
-> This GitHub is where I keep my personal projects, prior professional work from my PhD lies in [this GitLab](https://gitlab.com/tjburch), and present professional work lies in institutionally protected GitLabs.
+> This GitHub is where I keep my personal projects, prior professional work from my PhD lies in [this GitLab](https://gitlab.com/tjburch), and work from my postdoc lies in institutionally protected GitLabs.
 
 <!--
 **tjburch/tjburch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
