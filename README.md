@@ -24,8 +24,7 @@ Feel free to reach out, and be sure to read some of my work on my blog.
 
 ### Currently Learning
 
-- Continuing developing my Bayesian statistics and probabilistic programming knowledge after finishing [Statistical Rethinking -  McElreath](https://github.com/tjburch/statistical-rethinking-notes), by diving into PyMC3 and ArviZ with the help of [Bayesian Analysis in Python - Martin](https://www.packtpub.com/product/bayesian-analysis-with-python-second-edition/9781789341652)
-- Familiarizing myself with the [Julia](https://julialang.org/) language and libraries
+- Converting "Regression and Other Stories" by Andrew Gelman, Jennifer Hill, and Aki Vehtari to Turing.jl - repository [here](https://github.com/tjburch/ROS-turing)
 
 ### Connect 
 
