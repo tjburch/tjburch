@@ -1,6 +1,6 @@
 ### Tyler James Burch
 
-I'm an analyst working in Baseball Research and Development for the Boston Red Sox.
+I'm a Senior Analyst working in Baseball Research and Development for the Boston Red Sox.
 
 Previously:
 
@@ -15,7 +15,6 @@ My programming interests are primarily in data analysis, machine learning, and p
 - [Homepage](http://tylerjamesburch.com/)
 - [Blog](http://tylerjamesburch.com/blog/)
 - [Twitter](https://twitter.com/TylerJBurch)
-- <a rel="me" href="https://bayes.club/@tylerjburch">Mastodon</a>
 
 
 ### More Information
