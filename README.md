@@ -48,7 +48,7 @@
 
 <div align="center">
 
-### Connect With Me
+### Connect
 
 [![Homepage](https://img.shields.io/badge/Homepage-BD3039?style=for-the-badge&logo=google-chrome&logoColor=white)](http://tylerjamesburch.com/)
 [![Blog](https://img.shields.io/badge/Blog-0C2340?style=for-the-badge&logo=hashnode&logoColor=white)](http://tylerjamesburch.com/blog/)
