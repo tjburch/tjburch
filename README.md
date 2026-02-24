@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BD3039&center=true&vCenter=true&width=600&lines=Lead+Analyst+%7C+Boston+Red+Sox;Baseball+Research+%26+Development;Physics+%E2%9E%9C+Machine+Learning+%E2%9E%9C+Baseball" alt="Typing SVG" />
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tjburch&show_icons=true&theme=radical&bg_color=0C2340&title_color=BD3039&text_color=ffffff&icon_color=54796d&border_color=BD3039&hide_border=false)](https://github.com/tjburch)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tjburch&show_icons=true&theme=radical&bg_color=0C2340&title_color=BD3039&text_color=ffffff&icon_color=54796d&border_color=BD3039&hide_border=false)
 
 </div>
 
